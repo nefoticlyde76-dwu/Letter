@@ -94,8 +94,6 @@ window.LETTER_CONTENT = {
   letter: {
     greeting: "Hey, Baby❤️🥹",
     paragraphs: [
-      "Before you start reading this letter, I need you to understand that this is not an ordinary text message. So please, answer those riddles properly.",
-      "But seriously, my love… ❤️",
       "Sometimes I wonder how one person can become such a beautiful part of another person's life. How a simple conversation can brighten a day, how one smile can change a mood, and how someone can cross your mind even when you're busy doing absolutely nothing. 😂❤️",
       "And somehow, you've become that person for me.",
       "I may not always find the perfect words to explain what I feel, and I might not always know how to express everything in my heart. But I want you to know that you mean so much to me. You're not just someone I love; you're someone I want to keep choosing, someone I want to grow with, and someone I want beside me as we journey through life. 🥹❤️",
