@@ -6,7 +6,7 @@
  */
 window.LETTER_CONTENT = {
   welcome: {
-    heading: "Hey, Beautiful ❤️",
+    heading: "Hey, Baby ❤️",
     message:
       "So... I've written you something special. But there's just one tiny problem. You cannot read it until you pass a very serious examination. 😂",
     extra:
