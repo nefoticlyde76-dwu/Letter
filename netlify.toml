@@ -1,0 +1,4 @@
+# Static site. Publish the project folder as-is.
+# Leave the build command empty in the Netlify UI as well.
+[build]
+publish = "."
